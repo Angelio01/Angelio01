@@ -3,7 +3,7 @@
 
 - 🔭 I'm currently studying at [EAN university](https://universidadean.edu.co/programas/carreras-profesionales/carrera-de-ingenieria-de-sistemas)
 
-- 🌱 I’m currently learning **Python, Visual Studio Code**
+- 🌱 I’m currently learning **Python and Visual Studio Code**
 
 - 📫 How to reach me **Angelio123456@hotmail.com**
 
